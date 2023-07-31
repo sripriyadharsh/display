@@ -1,0 +1,66 @@
+.no{
+    background-color: chocolate;
+    height: 30px;
+    width: 30px;
+}
+.none{
+    display: none;
+    background-color: chocolate;
+    height: 30px;
+    width: 30px;
+}
+span{
+    display: block;
+    background-color: aqua;
+    height: 100%;
+    width: 100%;
+}
+.red:hover{
+    background-color: red;
+   
+    
+}
+.yellow:hover{
+    background-color: yellow;
+    
+}
+.green:hover{
+    background-color: green;
+    
+}
+.pink{
+    background-color: pink;
+    display: inline;
+    
+}
+.blue{
+    background-color: blue;
+    display: inline;
+    height: 50px;
+    width: 50px;
+}
+.black{
+    background-color: black;
+    display: inline;
+    height: 50px;
+    width: 50px;
+}
+.teal{
+    background-color: teal;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
+.brown{
+    background-color: brown;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    
+}
+.violet{
+    background-color:violet;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+}
